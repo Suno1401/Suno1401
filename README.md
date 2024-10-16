@@ -15,11 +15,13 @@ My name is **Allan**, and I'm a Computer Science student at **HEH**. My main fie
 
 I mostly use these programming languanges:
 
-<img src="https://github.com/user-attachments/assets/1a7e2d3f-c79c-4fa1-bc9b-ac0d6d151e3f" alt="Python" width="30px" height="30px" style="display: inline-block;"/> 
-<img src="https://github.com/user-attachments/assets/9a96db8f-9aaf-4c34-ad97-fb56180d95b7" alt="CSS" width="30px" height="30px" style="display: inline-block;"/>
-<img src="https://github.com/user-attachments/assets/af6d5def-0a78-4abf-9523-9bbe674a699f" alt="html" width="30px" height="30px" style="display: inline-block;"/>
-<img src="https://github.com/user-attachments/assets/45cdb0e3-b390-4a31-8fd3-631ea3d8013a" alt="js" width="30px" height="30px" style="display: inline-block;"/>
-<img src="https://github.com/user-attachments/assets/03428cb7-da44-4dc0-9a23-91d93e3041d5" alt="java" width="30px" height="30px" style="display: inline-block;"/>
+<p style="margin: 10px 0;">
+    <img src="https://github.com/user-attachments/assets/1a7e2d3f-c79c-4fa1-bc9b-ac0d6d151e3f" alt="Python" width="30px" height="30px" style="display: inline-block; margin: 10px;"/> 
+    <img src="https://github.com/user-attachments/assets/9a96db8f-9aaf-4c34-ad97-fb56180d95b7" alt="CSS" width="30px" height="30px" style="display: inline-block; margin: 10px;"/>
+    <img src="https://github.com/user-attachments/assets/af6d5def-0a78-4abf-9523-9bbe674a699f" alt="html" width="30px" height="30px" style="display: inline-block; margin: 10px;"/>
+    <img src="https://github.com/user-attachments/assets/45cdb0e3-b390-4a31-8fd3-631ea3d8013a" alt="js" width="30px" height="30px" style="display: inline-block; margin: 10px;"/>
+    <img src="https://github.com/user-attachments/assets/03428cb7-da44-4dc0-9a23-91d93e3041d5" alt="java" width="30px" height="30px" style="display: inline-block; margin: 10px;"/>
+</p>
 
 
 and these frameworks/tools:
