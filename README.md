@@ -1,4 +1,4 @@
-<p align="center">
+![github](https://github.com/user-attachments/assets/03ac944b-46a8-45a5-90c8-dbfc7d014770)![github](https://github.com/user-attachments/assets/4dde792d-f668-40a8-9449-5e60bf73e2e7)<p align="center">
     <img src="https://github.com/user-attachments/assets/ff6f1184-da27-487f-9385-b2d31995d803" alt="GIF" />
 </p>
 
@@ -6,8 +6,10 @@
 
 My name is **Allan**, and I'm a Computer Science student at **HEH**. My main fields of study are **Development, Networks, and Telecommunications**. I am currently working on some side projects and learning new things along the way. 
 <p>
-    <img src="https://github.com/user-attachments/assets/6cbed912-8c07-4afd-8a08-ebc9f03f4f4b" alt="Python" width="100px"  style="display: inline-block;"/> 
+    <img src="https://github.com/user-attachments/assets/6cbed912-8c07-4afd-8a08-ebc9f03f4f4b" alt="Python" width="100px"  style="display: inline-block;"/>
+    <img src="https://github.com/user-attachments/assets/1c3a3433-5850-4a33-995b-92ac7b2cdaed" alt="Python" width="60px"  style="display: inline-block;"/> 
 </p>
+
 
 
 
