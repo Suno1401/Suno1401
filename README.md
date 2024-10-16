@@ -1,4 +1,6 @@
-![gif](https://github.com/user-attachments/assets/ff6f1184-da27-487f-9385-b2d31995d803)
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/ff6f1184-da27-487f-9385-b2d31995d803" alt="GIF" />
+</p>
 ## Hi, I'm @suno! 👋
 
 My name is **Allan**, and I'm a Computer Science student at **HEH**. My main fields of study are **Development, Networks, and Telecommunications**. I am currently working on some side projects and learning new things along the way.
