@@ -4,7 +4,11 @@
 
 ## Hi, I'm @suno! 👋
 
-My name is **Allan**, and I'm a Computer Science student at **HEH**. My main fields of study are **Development, Networks, and Telecommunications**. I am currently working on some side projects and learning new things along the way.
+My name is **Allan**, and I'm a Computer Science student at **HEH**. My main fields of study are **Development, Networks, and Telecommunications**. I am currently working on some side projects and learning new things along the way. 
+<p>
+    <img src="https://github.com/user-attachments/assets/6cbed912-8c07-4afd-8a08-ebc9f03f4f4b" alt="Python" width="100px"  style="display: inline-block;"/> 
+</p>
+
 
 
 I mostly use these programming languanges:
