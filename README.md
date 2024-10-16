@@ -1,14 +1,10 @@
+![gif](https://github.com/user-attachments/assets/ff6f1184-da27-487f-9385-b2d31995d803)
 ## Hi, I'm @suno! 👋
 
 My name is **Allan**, and I'm a Computer Science student at **HEH**. My main fields of study are **Development, Networks, and Telecommunications**. I am currently working on some side projects and learning new things along the way.
 
 
-
-
-
-
-
-I mostly use these programming languange:
+I mostly use these programming languanges:
 
 <img src="https://github.com/user-attachments/assets/1a7e2d3f-c79c-4fa1-bc9b-ac0d6d151e3f" alt="Python" width="30px" height="30px" style="display: inline-block;"/> 
 <img src="https://github.com/user-attachments/assets/9a96db8f-9aaf-4c34-ad97-fb56180d95b7" alt="CSS" width="30px" height="30px" style="display: inline-block;"/>
@@ -17,7 +13,7 @@ I mostly use these programming languange:
 <img src="https://github.com/user-attachments/assets/03428cb7-da44-4dc0-9a23-91d93e3041d5" alt="java" width="30px" height="30px" style="display: inline-block;"/>
 
 
-and these framework, tools:
+and these frameworks/tools:
 
 ![react](https://github.com/user-attachments/assets/9e296b03-6ed4-4871-9bcf-d13269032cad)
 ![tailwind css](https://github.com/user-attachments/assets/62f01dbf-9d68-48fb-95cf-810cc719cd57)
@@ -27,7 +23,7 @@ and these framework, tools:
 ![brave](https://github.com/user-attachments/assets/70222cd5-0bfd-49d9-bebe-611ee3ee3f44)
 
 
-other than those, im also having some fun with Rust
+Other than those, I'm also having some fun with **Rust**!
 
 
 
