@@ -34,7 +34,7 @@ and these frameworks/tools:
 ![brave](https://github.com/user-attachments/assets/70222cd5-0bfd-49d9-bebe-611ee3ee3f44)
 
 
-Other than those, I'm also having some fun with **Rust**!
+
 
 
 
