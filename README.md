@@ -3,7 +3,7 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13F7F5&background=80FF2800&width=435&lines=Hi%2C+I'm+%40suno!+%F0%9F%91%8B)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13F7F5&background=80FF2800&width=435&lines=Hi%2C+I'm+%40suno!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 My name is **Allan**, and I'm a Computer Science student at **HEH**. My main fields of study are **Development, Networks, and Telecommunications**. I am currently working on some side projects and learning new things along the way. 
 
@@ -11,7 +11,7 @@ My name is **Allan**, and I'm a Computer Science student at **HEH**. My main fie
 
 
 
-I mostly use these programming languanges:
+## I Mostly use these Programming Languanges:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -20,7 +20,7 @@ I mostly use these programming languanges:
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 
-and these frameworks/tools:
+## And these Frameworks/Tools:
 
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -34,8 +34,8 @@ and these frameworks/tools:
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white)
 
-<br>
-<br>
+
+## My Stats 
 
 <a href="https://github.com/Suno1401"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Suno1401&&langs_count=8&layout=compact&theme=react&border_color=FFFFFF&bg_color=0D1117&title_color=ffffff&icon_color=F8D866%22%20height=%22192px%22%20width=%2249.5%" alt=""></a>
 
