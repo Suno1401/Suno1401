@@ -2,7 +2,8 @@
     <img src="https://github.com/user-attachments/assets/ff6f1184-da27-487f-9385-b2d31995d803" alt="GIF" />
 </p>
 
-## Hi, I'm @suno! 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13F7F5&background=80FF2800&width=435&lines=Hi%2C+I'm+%40suno!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 My name is **Allan**, and I'm a Computer Science student at **HEH**. My main fields of study are **Development, Networks, and Telecommunications**. I am currently working on some side projects and learning new things along the way. 
 
