@@ -16,7 +16,6 @@ My main fields of study are **Development**, **Networks**, and **Telecommunicati
 <div align="left">
 
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-<img src="https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
 
 <br/>
