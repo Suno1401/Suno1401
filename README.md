@@ -15,6 +15,7 @@ My main fields of study are **Development**, **Networks**, and **Telecommunicati
 
 <div align="left">
 
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 <img src="https://img.shields.io/badge/SQL%20-CC2927?style=for-the-badge&logo=microsoft-sql&logoColor=white" alt="SQL" />
@@ -33,6 +34,7 @@ My main fields of study are **Development**, **Networks**, and **Telecommunicati
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white" alt="Brave" />
+
 
 </div>
 
