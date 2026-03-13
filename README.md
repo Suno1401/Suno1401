@@ -11,12 +11,6 @@ My main fields of study are **Development**, **Networks**, and **Telecommunicati
 
 <br/>
 
-<p>
-    <a href="https://www.linkedin.com/in/allandruart/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
-  
 ## 🛠 My Tools & Technologies
 
 <div align="left">
@@ -46,6 +40,14 @@ My main fields of study are **Development**, **Networks**, and **Telecommunicati
 
 <br/>
 
+## 📫 Me contacter
+
+<p>
+    <a href="https://www.linkedin.com/in/allandruart/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+  
 ## 📊 My GitHub Stats
 
 <div align="left">
